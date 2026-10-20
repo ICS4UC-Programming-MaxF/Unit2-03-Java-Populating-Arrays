@@ -1,0 +1,7 @@
+Line 1: Error - "shem" is not an integer
+Line 2: Sum = 133
+Line 3: Sum = -4
+Line 4: Error - "HELLOOOOOOOO" is not an integer
+Line 5: Sum = 1
+Line 6: Sum = 0
+Line 7: Error - "null" is not an integer
